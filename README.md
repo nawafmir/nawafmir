@@ -12,10 +12,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 BS in *Artificial Intelligence* from *KIET University*, Gold Medalist 🏅  
+- 🎓 BS in *Artificial Intelligence* from *KIET University*, **Gold Medalist 🏅 with 3.75 CGPA**
 - 💼 Former AI Intern @ *Drox Labs*
 - 🌍 Based in *Jeddah, Saudi Arabia*
-- 📬 Reach me: *[nawafmeer17@gmail.com](mailto:nawafmeer17@gmail.com)*  
+- 📬 Reach me: *[nawafmeer17@gmail.com](mailto:nawafmeer17@gmail.com)*
 - 🧠 Currently learning *LLMs, Computer Vision, and Cloud Integration*
 
 ---
@@ -23,24 +23,28 @@
 ## 💼 Experience
 
 ### 🚀 AI Intern — Drox Labs (Jan 2023 – Mar 2023)
-- 🛠 Trained ML models using Python libraries
-- 📊 Analyzed model performance using prediction metrics
-- ⚙ Refined and deployed predictive models for real-world applications
+
+- 🛠 Trained ML models using Python libraries  
+- 📊 Analyzed model performance using prediction metrics  
+- ⚙ Refined and deployed predictive models for real-world applications  
 
 ---
 
 ## 🛠 Skills & Technologies
 
 ### 🤖 Core Domains
-- 🧠 Machine Learning | 🤖 Deep Learning | 🧬 Generative AI
+
+- 🧠 Machine Learning | 🤖 Deep Learning | 🧬 Generative AI  
 - 🔍 Model Optimization | 📈 Predictive Analytics | 👁 Computer Vision
 
 ### 💻 Programming & Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,sql,js,html,css,react,azure,py" />
 </p>
 
 ### 📊 Data & Dev Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=powerbi,git,github,vscode,azure" />
 </p>
@@ -49,36 +53,36 @@
 
 ## 📂 Featured Projects
 
-| Project Title | Description |
-|---------------|-------------|
-| 🎬 *IMDb Sentiment Analysis* | Natural Language Processing model to classify reviews |
-| 📉 *Netflix Stock Prediction* | Predictive ML model trained on time-series stock data |
-| 🔐 *Blockchain-IoT Research Paper* | Asset tracking with smart contracts |
-| 🧾 *Exam & Bank Management System* | Built using C# and SQL |
-| 🔄 *Digital Asset Tracker with Blockchain* | Combines predictive maintenance + blockchain |
+| Project Title                              | Description                                                               |
+| ------------------------------------------ | ------------------------------------------------------------------------- |
+| 🎬 *IMDb Sentiment Analysis*               | Natural Language Processing model to classify reviews                     |
+| 📉 *Netflix Stock Prediction*              | Predictive ML model trained on time-series stock data                     |
+| 🔐 *Blockchain-IoT Research Paper*         | Asset tracking with smart contracts                                       |
+| 🧾 *Exam & Bank Management System*         | Built using C# and SQL                                                    |
+| 🔄 *Digital Asset Tracker with Blockchain* | Combines predictive maintenance + blockchain                              |
+| 💊 *Medical Chatbot using Generative AI*   | Built with LangChain + GROQ to provide conversational medical Q&A support |
 
 ---
 
 ## 📜 Certifications
 
-- 🎓 Bachelors in BS-AI (KIET University)  
-- 📊 [Intro to PowerBI – DataCamp](https://www.datacamp.com)  
-- 📈 Introduction to DAX & Data Visualization  
-- 🐍 Python Programming for Data Science  
+- 🎓 Bachelors in BS-AI (KIET University)
+- 📊 [Intro to PowerBI – DataCamp](https://www.datacamp.com)
+- 📈 Introduction to DAX & Data Visualization
+- 🐍 Python Programming for Data Science
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawafmir&show_icons=true&theme=tokyonight&hide_border=true" alt="Nawaf Mir's GitHub stats" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nawafmir&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nawafmir&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nawafmir&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawafmir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawafmir&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
-
 
 ---
 
@@ -86,6 +90,8 @@
 
 <p align="center">
   <a href="mailto:nawafmeer17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/nawafmir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nawafmir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/nawafmir"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+---
