@@ -1,76 +1,86 @@
-<h1 align="center">Hi 👋, I'm Nawaf Mir</h1>
-<h3 align="center">AI & Machine Learning Engineer | Python Enthusiast | Data-Driven Innovator</h3>
-
-<img align="right" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-- 🔭 Currently working on: **ML-powered Predictive Maintenance, Stock Price Prediction**
-- 📚 Learning and Exploring: **LLMs, Computer Vision, Deep Learning, PyTorch**
-- 🎓 BS in Artificial Intelligence from KIET (Gold Medalist, CGPA 3.75/4.0)
-- 📍 Based in **Jeddah, Saudi Arabia**
-- 📫 Reach me at: **nawafmeer17@gmail.com**
-
----
-
-### 🛠️ Skills & Tools
-
-#### 🚀 Core Competencies
-- Machine Learning | Deep Learning | Computer Vision  
-- Generative AI | LLMs | Artificial Intelligence  
-- Data Analysis | Predictive Modeling | Model Optimization  
-
-#### 🧠 Languages & Libraries
-- Python | C# | SQL | JavaScript  
-- PyTorch | PowerBI | Azure | ReactJS  
-
-#### 🌐 Web & Data Tools
-- HTML5/CSS | PowerBI | Dataviz | DAX  
-- Git & GitHub | REST APIs | Jupyter  
-
----
-
-### 💼 Experience
-
-**AI Intern @ Drox Labs**  
-*Jan 2023 – Mar 2023*  
-- Trained predictive models using Python libraries for real-world applications.  
-- Evaluated model performance and prediction accuracy using business metrics.  
-- Refined and optimized models for enhanced performance.
-
----
-
-### 📂 Projects
-
-- 🎬 **Sentiment Analysis on IMDb Reviews**
-- 📊 **NETFLIX Stock Price Prediction using ML Models**
-- 📡 **Blockchain-Enabled IOT Digital Asset Tracking (Research Paper)**
-- 🏦 **Bank Management System (C# and SQL)**
-- 🧾 **Exam Management System**
-- 🔗 **Predictive Maintenance with Blockchain for Asset Tracking**
-
----
-
-### 🧾 Certifications
-
-- 📚 Bachelors in BS-AI (KIET University)
-- 📈 Introduction to PowerBI (DataCamp)
-- 📊 Dataviz in PowerBI (DataCamp)
-- 🧠 Intro to DAX and Python (DataCamp)
-
----
-
-### 📈 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawafmeer&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00A5C5&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Nawaf+Mir;AI+%26+Machine+Learning+Engineer;Python+%7C+Deep+Learning+%7C+Data+Driven+Solutions" alt="Typing SVG" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawafmeer&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<!-- Profile Pic or Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ---
 
-### 🌐 Connect With Me
+## 👨‍💻 About Me
 
+- 🎓 BS in **Artificial Intelligence** from **KIET University**, Gold Medalist 🏅  
+- 💼 Former AI Intern @ **Drox Labs**
+- 🌍 Based in **Jeddah, Saudi Arabia**
+- 📬 Reach me: **[nawafmeer17@gmail.com](mailto:nawafmeer17@gmail.com)**  
+- 🧠 Currently learning **LLMs, Computer Vision, and Cloud Integration**
+
+---
+
+## 💼 Experience
+
+### 🚀 AI Intern — Drox Labs *(Jan 2023 – Mar 2023)*
+- 🛠️ Trained ML models using Python libraries
+- 📊 Analyzed model performance using prediction metrics
+- ⚙️ Refined and deployed predictive models for real-world applications
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🤖 Core Domains
+- 🧠 Machine Learning | 🤖 Deep Learning | 🧬 Generative AI
+- 🔍 Model Optimization | 📈 Predictive Analytics | 👁️ Computer Vision
+
+### 💻 Programming & Tools
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-link" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:nawafmeer17@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,sql,js,html,css,react,azure,py" />
+</p>
+
+### 📊 Data & Dev Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=powerbi,git,github,vscode,azure" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+| Project Title | Description |
+|---------------|-------------|
+| 🎬 **IMDb Sentiment Analysis** | Natural Language Processing model to classify reviews |
+| 📉 **Netflix Stock Prediction** | Predictive ML model trained on time-series stock data |
+| 🔐 **Blockchain-IoT Research Paper** | Asset tracking with smart contracts |
+| 🧾 **Exam & Bank Management System** | Built using C# and SQL |
+| 🔄 **Digital Asset Tracker with Blockchain** | Combines predictive maintenance + blockchain |
+
+---
+
+## 📜 Certifications
+
+- 🎓 Bachelors in BS-AI *(KIET University)*  
+- 📊 [Intro to PowerBI – DataCamp](https://www.datacamp.com)  
+- 📈 Introduction to DAX & Data Visualization  
+- 🐍 Python Programming for Data Science  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=nawafmeer&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawafmeer&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔗 Let's Connect!
+
+<p align="center">
+  <a href="mailto:nawafmeer17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/nawafmeer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
