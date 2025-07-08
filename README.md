@@ -40,7 +40,7 @@
 ### 💻 Programming & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,js,html,css,react,azure,py" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,react,azure" />
 </p>
 
 ### 📊 Data & Dev Tools
@@ -66,10 +66,10 @@
 
 ## 📜 Certifications
 
-- 🎓 Bachelors in BS-AI (KIET University)
-- 📊 [Intro to PowerBI – DataCamp](https://www.datacamp.com)
-- 📈 Introduction to DAX & Data Visualization
-- 🐍 Python Programming for Data Science
+- 🎓 Bachelors in BS-AI (KIET University)  
+- 📊 [Intro to PowerBI – DataCamp](https://www.datacamp.com)  
+- 📈 Introduction to DAX & Data Visualization  
+- 🐍 Python Programming for Data Science  
 
 ---
 
