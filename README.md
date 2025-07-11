@@ -75,17 +75,19 @@
 
 ---
 
+
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawafmir&show_icons=true&hide_title=true&hide_rank=false&hide=prs&include_all_commits=true&count_private=true&line_height=24&theme=tokyonight&border_radius=8" width="48%" alt="Nawaf's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nawafmir&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=8" width="48%" alt="Nawaf's GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nawafmir&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="Nawaf's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=nawafmir&theme=tokyonight&hide_border=true" width="48%" alt="Nawaf's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawafmir&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="48%" alt="Nawaf's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawafmir&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="48%" alt="Top Languages" />
 </p>
+
 
 
 ---
