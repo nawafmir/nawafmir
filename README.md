@@ -53,14 +53,15 @@
 
 ## 📂 Featured Projects
 
-| Project Title                              | Description                                                               |
-| ------------------------------------------ | ------------------------------------------------------------------------- |
-| 🎬 *IMDb Sentiment Analysis*               | Natural Language Processing model to classify reviews                     |
-| 📉 *Netflix Stock Prediction*              | Predictive ML model trained on time-series stock data                     |
-| 🔐 *Blockchain-IoT Research Paper*         | Asset tracking with smart contracts                                       |
-| 🧾 *Exam & Bank Management System*         | Built using C# and SQL                                                    |
-| 🔄 *Digital Asset Tracker with Blockchain* | Combines predictive maintenance + blockchain                              |
-| 💊 *Medical Chatbot using Generative AI*   | Built with LangChain + GROQ to provide conversational medical Q&A support |
+| Project Title                                | Description                                                               |
+| -------------------------------------------- | ------------------------------------------------------------------------- |
+| 🎬 *IMDb Sentiment Analysis*                 | Natural Language Processing model to classify reviews                     |
+| 📉 *Netflix Stock Prediction*                | Predictive ML model trained on time-series stock data                     |
+| 🔐 *Blockchain-IoT Research Paper*           | Asset tracking with smart contracts                                       |
+| 🧾 *Exam & Bank Management System*           | Built using C# and SQL                                                    |
+| 🔄 *Digital Asset Tracker with Blockchain*   | Combines predictive maintenance + blockchain                              |
+| 💊 *Medical Chatbot using Generative AI*     | Built with LangChain + GROQ to provide conversational medical Q&A support |
+| 💬 *Agentic Chatbot Web App (PWA)* 🔥        | Responsive PWA chatbot with login, local chat history, and voice-to-text  |
 
 ---
 
