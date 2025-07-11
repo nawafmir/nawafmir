@@ -62,6 +62,7 @@
 | 🔄 *Digital Asset Tracker with Blockchain*   | Combines predictive maintenance + blockchain                              |
 | 💊 *Medical Chatbot using Generative AI*     | Built with LangChain + GROQ to provide conversational medical Q&A support |
 | 💬 *Agentic Chatbot Web App (PWA)* 🔥        | Responsive PWA chatbot with login, local chat history, and voice-to-text  |
+| 🧠 *AI Research Assistant (CLI + Streamlit)* | Groq-powered research bot that uses LangChain, Wikipedia & DuckDuckGo     |
 
 ---
 
